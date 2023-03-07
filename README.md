@@ -1,6 +1,4 @@
-**Data Analysis Pakistan's E-Commerce**
----
-by Group B
+**Segmentation E-Commerce Company Customer - RFM Method**
 
 ---
 **Main Business Questions:**
