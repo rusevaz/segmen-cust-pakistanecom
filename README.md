@@ -1,4 +1,5 @@
-**Segmentation E-Commerce Company Customer - RFM Method**
+# segmen-cust-pakistanecom
+Segmentation E-Commerce Company Customer - RFM Method
 
 ---
 **Main Business Questions:**
